@@ -1,0 +1,10 @@
+@media screen and (width < 600px){
+.toggle{
+    display: none;
+}
+}
+@media screen and (width > 600px){
+    .toggle{
+        display: block;
+    }
+}
